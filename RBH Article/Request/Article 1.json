@@ -1,0 +1,62 @@
+{
+    "content": "||<@&1167167292451336264>|| Le syndrome de l’imposteur",
+    "embeds": [
+        {
+            "footer": {
+                "text": "𝐑𝐁𝐇 ≫𝐀𝐫𝐭𝐢𝐜𝐥𝐞",
+                "icon_url": "https://raw.githubusercontent.com/Beeckaert/RBH-Hook/main/RBH%20Event/Src/logos.png"
+            },
+            "thumbnail": {
+                "url": "https://raw.githubusercontent.com/Beeckaert/RBH-Hook/main/RBH%20Event/Src/logos.png"
+            },
+            "image": {
+                "url": "https://raw.githubusercontent.com/Beeckaert/RBH-Hook/main/RBH%20Reglement/Src/SRC1.gif"
+            },
+            "title": "Comprendre et Surmonter le Syndrome de l'Imposteur",
+            "description": "\n\n • ۵ • ━────「※」────━ • ۵ • \n\n Le syndrome de l’imposteur se manifeste par un sentiment de doute sur ses propres compétences et une peur persistante d’être démasqué comme un imposteur. Voici comment le reconnaître et des stratégies pour le surmonter.",
+            "fields": [
+                {
+                    "name": "1. Bonheur et détermination",
+                    "value": "Cela vous mettra d’abord dans un état de bonheur et de détermination. Vous voudrez en faire toujours plus, toujours mieux, avec plus d'exigence."
+                },
+                {
+                    "name": "2. Lassitude",
+                    "value": "Vous atteindrez ensuite un premier stade de lassitude, comme si vous n’en faisiez jamais assez. Vous pensez que vous n’êtes pas à la hauteur de vos propres attentes. Vous croyez à un moment de faiblesse passager, vous vous dites que ce n’est pas grave, que vous avez déjà beaucoup travaillé, et qu’il vaudrait mieux dormir pour être en forme et faire mieux le lendemain."
+                },
+                {
+                    "name": "3. Questions existentielles",
+                    "value": "Quand vous vous réveillez le lendemain, la nuit a été difficile. Les questions n’ont pas arrêté de défiler, vous empêchant de dormir :\n- « Pourquoi je n’y arrive pas ? »\n- « Qui suis-je pour faire ça ? »\n- « Beaucoup de monde le fait déjà, qu’est-ce que je pourrais y apporter de plus ? »\nVotre nuit de sommeil, promise à chercher des réponses à des questions existentielles, reste encore sans réponses au réveil."
+                },
+                {
+                    "name": "4. Manifestation",
+                    "value": "Cela se manifeste comme une déprime, un burn-out, mais au final, c'est un manque de confiance en soi et en ses compétences."
+                },
+                {
+                    "name": "Comment aller mieux ?",
+                    "value": "Voici quelques conseils pour surmonter le syndrome de l’imposteur."
+                },
+                {
+                    "name": "1. Parlez-en à votre entourage de confiance",
+                    "value": "En parler à son entourage peut être compliqué, par peur du jugement. Le principal problème du syndrome de l’imposteur est un manque de confiance en soi, aggravé par la masse de personnes déjà présentes dans le milieu que l’on vise. Cela peut être difficile, mais cela peut aider, à condition d'avoir des amis neutres et réfléchis qui apportent des conseils avisés. Cette solution est à prendre avec des pincettes et un esprit critique, car cela reste important dans les rapports sociaux."
+                },
+                {
+                    "name": "2. Accepter pour s'en débarrasser",
+                    "value": "Dans ce genre de moment, se poser seul, réfléchir et se concentrer sur soi-même pour se comprendre, ne fait pas de mal. Se remettre en question pour savoir ce qui nous arrive. Dans le cadre du syndrome de l’imposteur, il est essentiel de réfléchir à ses points forts et à ses points faibles, et de penser de manière neutre à soi-même. C'est un travail de résilience important pour de nombreux domaines."
+                },
+                {
+                    "name": "3. Lister ses points forts et points faibles avec neutralité",
+                    "value": "Lister ses points forts est ultra important, car dans le cas de ce syndrome, identifier ses qualités est crucial. Il sera toujours plus facile de localiser ses défauts que ses qualités. Cela permet de développer son auto-critique et de savoir laisser de côté les critiques futiles et non fondées."
+                },
+                {
+                    "name": "4. Projeter vos qualités",
+                    "value": "Peu importe le milieu que vous visez, même les qualités qui semblent futiles pour vous peuvent innover le domaine que vous ciblez. Il faut savoir que tout le monde est unique, et c’est cette individualité qui permet de vous affirmer."
+                },
+                {
+                    "name": "5. Vos défauts sont humains, personne n’est parfait",
+                    "value": "Les défauts sont totalement humains. Les accepter, c'est accepter que nous ne sommes pas parfaits. C’est une étape cruciale pour avancer, car avancer ne signifie pas chercher la perfection."
+                }
+            ],
+            "color": 15221330
+        }
+    ]
+}
